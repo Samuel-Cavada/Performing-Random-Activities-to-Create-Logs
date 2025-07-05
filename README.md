@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">🔐 Microsoft Defender: Endpoint Activity Simulation & Log Hunting</h1>
+<h1 align="center"> Microsoft Defender: Endpoint Activity Simulation & Log Hunting</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Platform" />
@@ -15,12 +15,12 @@
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 > Simulate endpoint activity on a Windows VM using PowerShell commands, then analyze the resulting logs in Microsoft Defender. This project demonstrates how actions are captured and visualized through Defender’s advanced hunting capabilities.
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 - **Platform:** Azure  
 - **OS:** Windows 10  
 - **Tools:** Microsoft Defender for Endpoint, PowerShell  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 Skills Gained / Focus Areas
+##  Skills Gained / Focus Areas
 - ✅ Created and executed PowerShell scripts on a cloud VM  
 - ✅ Triggered Defender detections using EICAR and test commands  
 - ✅ Queried logs from `DeviceFileEvents`, `DeviceProcessEvents`, and `DeviceNetworkEvents`  
@@ -43,7 +43,7 @@
 
 ---
 
-## 🛠️ Walkthrough
+##  Walkthrough
 
 ### ✅ Step 1: Create Virtual Machine
 > Deployed a Windows 10 VM in Azure and confirmed it was reporting to Microsoft Defender for Endpoint.
